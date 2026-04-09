@@ -1,0 +1,5 @@
+"homepage": "https:///sreenivasraghavendra-rgb/Portfolio/blob/main/portfolio_website_sreenivasa_raghavendra.jsx",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
